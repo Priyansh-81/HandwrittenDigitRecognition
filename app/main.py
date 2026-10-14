@@ -60,7 +60,7 @@ def main():
         canvas_result = st_canvas(
             fill_color="white",
             stroke_width=15,
-            stroke_color="black",
+            stroke_color="#111111",
             background_color="white",
             height=480,
             width=480,
